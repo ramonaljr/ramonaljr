@@ -13,7 +13,7 @@
 
   <!-- Dynamic Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EA580C&center=true&vCenter=true&width=650&lines=Production+n8n+Workflows+%26+MCP+Integration;Autonomous+Multi-Agent+Systems+(Claude+%2B+OpenAI);Financial+%26+Accounting+Process+Automation;Full-Stack+AI+Applications+(Next.js+%2B+TypeScript)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EA580C&center=true&vCenter=true&width=650&lines=n8n+%2B+Make+%2B+Zapier+Workflow+Automations;Autonomous+Multi-Agent+Systems+(Claude+%2B+OpenAI);Financial+%26+Accounting+Process+Automation;Full-Stack+AI+Applications+(Next.js+%2B+TypeScript)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 
 I design and deploy **end-to-end autonomous workflows and AI systems** that eliminate manual operations, accelerate revenue pipelines, and modernize financial operations:
 
-- 🛠 **Autonomous Workflow Engineering**: Architecting production-grade, self-hosted Docker & cloud **n8n** pipelines, custom MCP (Model Context Protocol) servers, webhook routing, and error-recovery queues.
+- 🛠 **Autonomous Workflow Engineering**: Architecting production-grade automation pipelines across **n8n** (self-hosted Docker & cloud), **Make**, and **Zapier**, complete with custom MCP (Model Context Protocol) servers, webhook routing, and error-recovery queues.
 - 🤖 **Multi-Agent Systems & LLM Orchestration**: Building multi-step agentic workflows with Claude, OpenAI, and Gemini utilizing structured tool calling, vector search, and RAG.
 - 📊 **Accounting & FinTech Automation**: Leveraging a deep background in finance and accounting with an MBA to automate invoice extraction, 3-way matching, reconciliation, BIR tax workflows, and ERP/CRM bidirectional synchronization (QuickBooks, Xero, Stripe).
 - 💻 **Full-Stack AI Applications**: Developing modern, scalable web applications using Next.js 15/16, React 19, TypeScript, Tailwind CSS, Supabase, and PostgreSQL.
@@ -34,13 +34,20 @@ I design and deploy **end-to-end autonomous workflows and AI systems** that elim
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>AI & Automation</strong></td>
+    <td align="center" width="25%"><strong>Workflow Automation</strong></td>
     <td>
       <img src="https://img.shields.io/badge/n8n-EA580C?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+      <img src="https://img.shields.io/badge/Make-6F2DBD?style=flat-square&logo=make&logoColor=white" alt="Make" />
+      <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+      <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-2563EB?style=flat-square&logo=probot&logoColor=white" alt="MCP" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>AI & LLMs</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
       <img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-2563EB?style=flat-square&logo=probot&logoColor=white" alt="MCP" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
     </td>
   </tr>

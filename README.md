@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>👋 Hi, I'm Ramon A. Vallejera, Jr.</h1>
-  <h3>AI Automation Specialist & Workflow Solutions Architect</h3>
+  <h1>👋 Hi, I'm Ramon Vallejera Jr.</h1>
+  <h3>AI Automation Engineer</h3>
   <p><em>Bridging 10+ Years of Finance Domain Expertise & MBA Rigor with Production AI & Autonomous Workflows</em></p>
 
   <p align="center">
     <a href="mailto:ramonvallejerajr@gmail.com"><img src="https://img.shields.io/badge/Email-ramonvallejerajr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/ramonaljr/ramons-ai-automation-portfolio"><img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://ramonvallejera.com"><img src="https://img.shields.io/badge/Portfolio-ramonvallejera.com-C4361F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/ramonaljr"><img src="https://img.shields.io/badge/Location-Philippines-108548?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /></a>
   </p>
 
@@ -87,12 +87,21 @@ I design and deploy **end-to-end autonomous workflows and AI systems** that elim
 
 ---
 
-### 🚀 Highlighted Solutions & Projects
+### 🚀 n8n Workflows
 
-- **[AI Automation Portfolio](https://github.com/ramonaljr/ramons-ai-automation-portfolio)** — Interactive portfolio showcasing production n8n workflows, Claude AI agent integrations, and domain-focused automations. Built with Next.js 16, Tailwind CSS v4, and React Three Fiber.
-- **[Raijuu AI Automation](https://github.com/ramonaljr/raijuu-ai-automation)** — High-performance AI Automation agency landing platform with 3D interactive physics and real-time animations.
-- **[Kalcio AI Accounting & Husay Tax Compliance](https://github.com/ramonaljr)** — Automated invoice ingestion, data validation, and tax compliance platform designed for modern business workflows.
-- **[AI-Powered CRM](https://github.com/ramonaljr)** — Autonomous inbox-first pipeline that ingests leads, auto-qualifies prospects with LLMs, and updates CRM records with zero manual data entry.
+Seven complete builds, each with the workflow JSON ready to import, a process map, and a full case study on [ramonvallejera.com](https://ramonvallejera.com/#portfolio). Credentials and account IDs are removed; the README lists what to connect.
+
+| Workflow | What it does | Stack |
+|---|---|---|
+| [AI Appointment Setter](https://github.com/ramonaljr/n8n-ai-appointment-setter) | A voice agent books, moves or cancels appointments while the caller is still on the line | VAPI, Google Calendar, Airtable |
+| [HR Evaluation Assistant](https://github.com/ramonaljr/n8n-hr-evaluation-assistant) | Reads each CV against its job posting, shortlists, invites and books the interview | Groq, OpenAI, Airtable, Gmail |
+| [AI Invoice Processing & Approval](https://github.com/ramonaljr/n8n-ai-invoice-processing-approval) | Checks every invoice against the PO and delivery record before Slack approval and QuickBooks | OpenAI, Slack, QuickBooks |
+| [AI Unpaid Invoice Reminders](https://github.com/ramonaljr/n8n-ai-unpaid-invoice-reminders) | Daily reminders by policy; AI reads replies and a dispute stops everything | QuickBooks, Pipedrive, Postgres |
+| [Lead Scoring & Follow-Up](https://github.com/ramonaljr/n8n-lead-scoring-follow-up) | Instant reply, rule-based score, rep assigned, manager alerted after 15 working minutes | OpenAI, Airtable, Slack |
+| [AI Prospecting with Apollo](https://github.com/ramonaljr/n8n-ai-prospecting-apollo) | Finds and scores decision-makers, researches each company and drafts a first email for approval | Apollo, OpenAI, Pipedrive |
+| [New Employee Onboarding](https://github.com/ramonaljr/n8n-employee-onboarding) | One form sets up a new hire and follows them up to day 30, with a policy assistant for HR | Airtable, Google Drive, Slack |
+
+<sub>Five are built for fictional sample clients; the case study for each says which.</sub>
 
 ---
 
@@ -109,7 +118,7 @@ I design and deploy **end-to-end autonomous workflows and AI systems** that elim
   <p>Interested in automating your business operations or building custom AI agent workflows?</p>
   <p>
     <a href="mailto:ramonvallejerajr@gmail.com"><b>📧 Get in Touch</b></a> •
-    <a href="https://github.com/ramonaljr/ramons-ai-automation-portfolio"><b>🌐 View Portfolio</b></a> •
+    <a href="https://ramonvallejera.com"><b>🌐 ramonvallejera.com</b></a> •
     <a href="https://github.com/ramonaljr"><b>🐙 Follow on GitHub</b></a>
   </p>
 </div>

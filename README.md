@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Ramon Vallejera Jr.</h1>
-  <h3>AI Automation Engineer</h3>
+  <h3>AI Automation Specialist</h3>
   <p><em>Bridging 10+ Years of Finance Domain Expertise & MBA Rigor with Production AI & Autonomous Workflows</em></p>
 
   <p align="center">

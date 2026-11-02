@@ -4,7 +4,6 @@
   <p><em>Bridging 10+ Years of Finance Domain Expertise & MBA Rigor with Production AI & Autonomous Workflows</em></p>
 
   <p align="center">
-    <a href="mailto:ramonvallejerajr@gmail.com"><img src="https://img.shields.io/badge/Email-ramonvallejerajr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://ramonvallejera.com"><img src="https://img.shields.io/badge/Portfolio-ramonvallejera.com-C4361F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/ramonaljr"><img src="https://img.shields.io/badge/Location-Philippines-108548?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /></a>
   </p>
@@ -117,7 +116,6 @@ Seven complete builds, each with the workflow JSON ready to import, a process ma
   <h3>🤝 Let's Collaborate</h3>
   <p>Interested in automating your business operations or building custom AI agent workflows?</p>
   <p>
-    <a href="mailto:ramonvallejerajr@gmail.com"><b>📧 Get in Touch</b></a> •
     <a href="https://ramonvallejera.com"><b>🌐 ramonvallejera.com</b></a> •
     <a href="https://github.com/ramonaljr"><b>🐙 Follow on GitHub</b></a>
   </p>
